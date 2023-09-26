@@ -7,7 +7,7 @@
 
 
 <div style="width:100%;height:0;padding-bottom:92%;position:relative;">
-  <iframe src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
