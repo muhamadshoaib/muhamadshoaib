@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shoaib</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadshoaib" alt="muhamadshoaib" /></a> </p>
-
 - 💬 Ask me about **Android, Flutter, Python, Flask**
 
 - 📫 How to reach me **muhamad.shoaib@aol.com**
