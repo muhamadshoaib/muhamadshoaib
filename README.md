@@ -22,3 +22,6 @@
 <!-- --> <h3 align="left">Support:</h3>
 <!-- --> <p><a href="https://www.buymeacoffee.com/muhammadshoaib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhammadshoaib" /></a></p><br><br>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
